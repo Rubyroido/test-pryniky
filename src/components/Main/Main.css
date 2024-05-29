@@ -1,0 +1,15 @@
+.main {
+  margin: 100px auto;
+  width: 75%;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.buttons-container {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 20px;
+  gap: 20px;
+}
